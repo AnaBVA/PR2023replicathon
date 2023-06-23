@@ -1,5 +1,32 @@
 # Replicathon 2022 (IQ BIO REU, UPR-RP)
 
+## Schedule
+
+*Friday*
+
+|Starts | Ends  | Activity                                                               |
+|-------|-------|------------------------------------------------------------------------|
+| 10    | 11    | Welcome and presentation on the subject                                |
+| 11    | 11:15 | Team building & team names                                            |
+| 11:15 | 12    | Github setup, discussion of reinforcement q's, basic tutorials (0a-1b) |
+| 12    | 1     | Lunch + networking + q's about data and problem                        |
+| 1     | 2     | Tutorials 2a + 2b                                                     |
+| 2     | 3:15  | Exploratory data analysis + module selection                           |
+| 3:15  | 3:30  | EDA discussion                                                         |
+| 3:30  | 4:30  | Work on module analysis                                                |
+| 4:30  | 5:00  | Brief regroup + Ice Cream                                              |
+
+
+*Saturday*
+
+|Starts| Ends | Activity                            |
+|------|------|-------------------------------------|
+| 10   | 11   | Continue (& finish) Module analysis |
+| 11   | 12   | Teams will work on presentations    |
+| 12   | 1    | Lunch + networking                  |
+| 1    | 2:30 | Presentations                       |
+| 2:30 | 3    | Regroup and final thoughts          |
+
 ## Getting Started
 
 Check out the [**introduction slides**](https://speakerdeck.com/merci/replicathon-2022) to review the goals and context for the event! If you're interested in learning more, links to relevant papers are included in the [Useful Links](#useful-links) section below. There are a couple ways that you can get started.
