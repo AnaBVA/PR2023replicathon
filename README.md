@@ -1,4 +1,4 @@
-# Replicathon 2022 (IQ BIO REU, UPR-RP)
+# Replicathon 2023 (IQ BIO REU, UPR-RP)
 
 ## Schedule
 
@@ -6,12 +6,12 @@
 
 |Starts | Ends  | Activity                                                               |
 |-------|-------|------------------------------------------------------------------------|
-| 10    | 11    | Welcome and presentation on the subject                                |
+| 10    | 11    | Welcome and [**introduction slides**](https://speakerdeck.com/merci/replicathon-2022) on the subject                                |
 | 11    | 11:15 | Team building & team names                                            |
-| 11:15 | 12    | Github setup, discussion of reinforcement q's, basic tutorials (0a-1b) |
+| 11:15 | 12    | i) Github setup, ii) [`reinforcement questions`](tutorials/00_reinforcement_questions.md), iii) basic tutorials ([`0a_R_basics.Rmd`](tutorials/0a_R_basics.Rmd), [`0b_R_tidyverse.Rmd`](tutorials/0b_R_tidyverse.Rmd), [`1a_explore_rawData.Rmd`](tutorials/1a_explore_rawData.Rmd)) |
 | 12    | 1     | Lunch + networking + q's about data and problem                        |
-| 1     | 2     | Tutorials 2a + 2b                                                     |
-| 2     | 3:15  | Exploratory data analysis + module selection                           |
+| 1     | 2     | Tutorials [`2a_deeper_subgroups.Rmd`](tutorials/2a_deeper_subgroups.Rmd) +  [`2b_deeper_summarization.Rmd`](tutorials/2b_deeper_summarization.Rmd)                                                     |
+| 2     | 3:15  | Exploratory data analysis ( [`analysis_template.Rmd`](analysis_template.Rmd)) + module selection                           |
 | 3:15  | 3:30  | EDA discussion                                                         |
 | 3:30  | 4:30  | Work on module analysis                                                |
 | 4:30  | 5:00  | Brief regroup + Ice Cream                                              |
@@ -32,7 +32,7 @@
 Check out the [**introduction slides**](https://speakerdeck.com/merci/replicathon-2022) to review the goals and context for the event! If you're interested in learning more, links to relevant papers are included in the [Useful Links](#useful-links) section below. There are a couple ways that you can get started.
 
 1. **If you have R already installed and ready to go**, clone or download [this repository](https://github.com/kstreet13/PR2021replicathon) to your computer and open the `.Rmd` files with [RStudio](https://rstudio.com/) or any other editor that you're comfortable using.
-2. **If you don't have R installed on your computer**, create a free account with [RStudio Cloud](https://rstudio.cloud/), click the blue dropdown arrow next to **[New Project]**, select **[New Project from Git Repo]**, and enter this GitHub repo URL: https://github.com/Mercedeh66/PR2022replicathon
+2. **If you don't have R installed on your computer**, create a free account with [RStudio Cloud](https://rstudio.cloud/), click the blue dropdown arrow next to **[New Project]**, select **[New Project from Git Repo]**, and enter this GitHub repo URL: https://github.com/AnaBVA/PR2023replicathon.git 
 
 ## Reinforcement Questions
 
